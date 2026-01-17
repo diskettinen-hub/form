@@ -363,7 +363,7 @@
             </div>
             <div class="chat-messages"></div>
             <div class="chat-input">
-                <textarea placeholder="Type your message here..." rows="1"></textarea>
+                <textarea placeholder="Ваше сообщение..." rows="1"></textarea>
                 <button type="submit">Отправить</button>
             </div>
         </div>
